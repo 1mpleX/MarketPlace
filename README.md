@@ -11,6 +11,7 @@
 5. **API Testing Tool**: Postman for REST API
 6. **Build Tool**: Maven
 
+(comments in the code marked for what)
 
 ### My source DB:
 <img src="https://github.com/user-attachments/assets/92d02d9c-4b2b-42e1-9a74-660648aa59f5" width="1000" />
