@@ -1,4 +1,4 @@
-# My Project "MarketPlace"
+# Project "MarketPlace"
 
 ## Tech Stack:
 
